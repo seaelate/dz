@@ -1,0 +1,54 @@
+ul{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 86, 86);
+    list-style: square;
+}
+ul li{
+    padding: 10px;
+    margin: 15px 30px;
+    background: rgb(255, 128, 128);
+    font-size: 30px;
+}
+
+
+
+
+ol{
+    padding: 30px;
+    margin: 10px;
+    background: rgb(255, 123, 66);
+    
+}
+ol li{
+    padding: 15px;
+    margin: 20px 30px;
+    background: rgb(255, 155, 112);
+    font-size: 20px;
+}
+
+
+
+
+
+body {
+    padding: 15px;
+    font-size: medium;
+   }
+   h1 {
+    margin: 5px 20px;
+    font-size: 60px;
+    color: #365d7a;
+   }
+
+   h2{
+    margin: 5px 20px;
+    font-size: 70px;
+   }
+   img {
+    width: 300px;
+    margin: 5px;
+ border-radius: 12px;
+ box-shadow: 2px 2px 1px 1px #b2b2b2;
+}
+
